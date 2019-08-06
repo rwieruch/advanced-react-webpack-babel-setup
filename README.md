@@ -27,8 +27,9 @@ Advanced React with Webpack Setup. How to set it up yourself:
 
 ## DIY Add-Ons
 
-* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
 * [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
+* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
+* [Images Support](https://www.robinwieruch.de/webpack-images/)
 
 ## Alternatives
 
