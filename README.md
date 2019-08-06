@@ -6,9 +6,7 @@ Advanced React with Webpack Setup. How to set it up yourself:
 
 - [Minimal React + Webpack Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
 - [Advanced Webpack Setup](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
-- [ESLint](https://www.robinwieruch.de/webpack-eslint/)
-- [ESLint + React](https://www.robinwieruch.de/react-eslint-webpack-babel/)
-- [Prettier + ESLint](https://www.robinwieruch.de/prettier-eslint/)
+- [ESLint](https://www.robinwieruch.de/webpack-eslint/) / [ESLint + React](https://www.robinwieruch.de/react-eslint-webpack-babel/) / [Prettier + ESLint](https://www.robinwieruch.de/prettier-eslint/)
 
 Make an optional addition yourself:
 
