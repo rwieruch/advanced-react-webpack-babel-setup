@@ -8,10 +8,6 @@ Advanced React with Webpack Setup. How to set it up yourself:
 - [Advanced Webpack Setup](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
 - [ESLint](https://www.robinwieruch.de/webpack-eslint/) / [ESLint + React](https://www.robinwieruch.de/react-eslint-webpack-babel/) / [Prettier + ESLint](https://www.robinwieruch.de/prettier-eslint/)
 
-Make an optional addition yourself:
-
-* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
-
 [![Edit advanced-react-webpack-babel-setup](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/rwieruch/advanced-react-webpack-babel-setup/tree/master/?fontsize=14)
 
 ## Features
@@ -28,6 +24,11 @@ Make an optional addition yourself:
 * Environment Variables
 * Webpack Add-Ons
 * ESLint + Prettier
+
+## DIY Add-Ons
+
+* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
+* [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
 
 ## Alternatives
 
