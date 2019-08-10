@@ -21,7 +21,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "dotenv-webpack": "^1.7.0",
     "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^18.0.0",
     "eslint-config-prettier": "^5.1.0",
     "eslint-loader": "^2.1.2",
     "eslint-plugin-import": "^2.18.0",
