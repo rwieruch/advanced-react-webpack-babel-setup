@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --config build-utils/webpack.config.js --env.env=dev",
-    "build": "webpack --config build-utils/webpack.config.js --env.env=prod",
+    "start": "webpack-dev-server --config build-utils/webpack.config.ts --env.env=dev",
+    "build": "webpack --config build-utils/webpack.config.ts --env.env=prod",
     "build:analyze": "npm run build -- --env.addon=bundleanalyze --env.addon=bundlevisualizer",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -14,8 +14,14 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
+    "@babel/preset-typescript": "^7.6.0",
+    "@types/react": "^16.9.9",
+    "@types/react-dom": "^16.9.2",
+    "@types/webpack-env": "^1.14.1",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^3.0.0",

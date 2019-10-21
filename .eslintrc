@@ -10,6 +10,14 @@
   "rules": {
     "prettier/prettier": ["error"],
     "import/no-extraneous-dependencies": 0,
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "react/prop-types": 0
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
   }
 }
