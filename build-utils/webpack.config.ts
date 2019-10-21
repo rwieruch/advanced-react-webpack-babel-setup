@@ -3,7 +3,7 @@
 
 const webpackMerge = require('webpack-merge');
 
-const commonConfig = require('./webpack.common.js');
+const commonConfig = require('./webpack.common');
 
 const getAddons = addonsArgs => {
   const addons = Array.isArray(addonsArgs)
