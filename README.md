@@ -1,6 +1,6 @@
 # advanced-react-webpack-babel-setup
 
-[![Build Status](https://travis-ci.org/rwieruch/advanced-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/advanced-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/advanced-react-webpack-babel-setup.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/rwieruch/advanced-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/advanced-react-webpack-babel-setup) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/advanced-react-webpack-babel-setup.svg)](https://greenkeeper.io/)
 
 Advanced React with Webpack Setup. How to set it up yourself:
 
@@ -12,29 +12,29 @@ Advanced React with Webpack Setup. How to set it up yourself:
 
 ## Features
 
-* React 16
-* Webpack 4
-* Babel 7
-* Hot Module Replacement
-* Dev + Production Builds
-* Dist Folder Managagement by Webpack
-* Common and environment specific Webpack Configuration
-* Composition of Webpack Configuration
-* Source Maps
-* Environment Variables
-* Webpack Add-Ons
-* ESLint + Prettier
+- React 16
+- Webpack 5
+- Babel 7
+- Hot Module Replacement
+- Dev + Production Builds
+- Dist Folder Managagement by Webpack
+- Common and environment specific Webpack Configuration
+- Composition of Webpack Configuration
+- Source Maps
+- Environment Variables
+- Webpack Add-Ons
+- ESLint + Prettier
 
 ## DIY Add-Ons
 
-* [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
-* [CSS Modules](https://www.robinwieruch.de/react-css-modules/)
-* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
-* [Images Support](https://www.robinwieruch.de/webpack-images/)
+- [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
+- [CSS Modules](https://www.robinwieruch.de/react-css-modules/)
+- [Fonts Support](https://www.robinwieruch.de/webpack-font/)
+- [Images Support](https://www.robinwieruch.de/webpack-images/)
 
 ## Alternatives
 
-* [Minimal React Webpack Babel Setup](https://github.com/rwieruch/minimal-react-webpack-babel-setup)
+- [Minimal React Webpack Babel Setup](https://github.com/rwieruch/minimal-react-webpack-babel-setup)
 
 ## Installation
 
