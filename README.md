@@ -31,6 +31,7 @@ Advanced React with Webpack Setup. How to set it up yourself:
 - [CSS Modules](https://www.robinwieruch.de/react-css-modules/)
 - [Fonts Support](https://www.robinwieruch.de/webpack-font/)
 - [Images Support](https://www.robinwieruch.de/webpack-images/)
+- [Docker](https://www.robinwieruch.de/docker-react-development)
 
 ## Alternatives
 
