@@ -3,7 +3,7 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: path.resolve(__dirname, '..', './src/index.js'),
   module: {
     rules: [
       {
@@ -20,7 +20,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: 'Advanced React with Webpack Setup',
-      template: './src/index.html',
+      template: path.resolve(__dirname, '..', './src/index.html'),
     }),
   ],
   output: {
